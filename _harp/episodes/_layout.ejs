@@ -1,0 +1,29 @@
+<html>
+  <meta charset="utf-8" />
+  <head>
+    <title><%= title %></title>
+    <meta name="description" content="<%= description %>" />
+    <%- partial("../_partials/_head") %>
+  </head>
+  <body>
+    <%- partial("../_partials/_header") %>
+    <main class="episode-page">
+      <div class="episode--info" style="color: <%= color %>">
+        <h1><%= title %></h1>
+
+        <span class="date"><%= date %></span>
+        <p><%= description %></p>
+
+        <audio preload="auto" controls src="//media.blubrry.com/codetimecn/fiend.blob.core.windows.net/fiend/<%= audio %>.mp3"></audio>
+        <a class="download-link" href="//media.blubrry.com/codetimecn/fiend.blob.core.windows.net/fiend/<%= audio %>.mp3" download>Download the mp3</a>
+
+        <h2 class="resources-header">Show Notes:</h2>
+
+        <div class="episode--resources">
+          <%- yield %>
+        </div>
+      </div>
+    </main>
+    <%- partial("../_partials/_footer") %>
+  </body>
+</html>

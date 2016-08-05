@@ -1,0 +1,31 @@
+{
+    "name": "codetimecn",
+    "version": "1.0.0",
+    "description": "a podcast program for programmer in Chinese language",
+    "main": "gulpfile.js",
+    "scripts": {
+        "serve": "harp server _harp",
+        "build": "harp compile _harp --output ../www && mv www/rss.xml www/podcast.rss",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "express": "^4.14.0"
+    },
+    "devDependencies": {
+        "browser-sync": "2.6.4",
+        "gulp": "3.8.11",
+        "harp": "0.20.3",
+        "node-sass": "3.4.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "podcast",
+        "geek",
+        "programmer"
+    ],
+    "author": "Xi Xiao",
+    "license": "CC-BY-NC-SA 4.0"
+}

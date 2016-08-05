@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>代码时间</title>
+	<atom:link href="http://codetimecn.com/podcast.rss" rel="self" type="application/rss+xml" />
+	<link>http://codetimecn.com</link>
+	<description>代码时间是一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量</description>
+	<lastBuildDate><%= new Date().toUTCString() %></lastBuildDate>
+	<language>zh</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://harpjs.com</generator>
+	<copyright>Copyright © codetimecn 2016</copyright>
+	<managingEditor>codetimecn@gmail.com (Xi Xiao)</managingEditor>
+	<webMaster>codetimecn@gmail.com (Xi Xiao)</webMaster>
+	<category>Geek, Codetimecn, Programming</category>
+	<ttl>1440</ttl>
+	<image>
+		<url>http://codetimecn.com/img/logo-3000x3000.png</url>
+		<title>代码时间</title>
+		<link>http://codetimecn.com</link>
+		<width>3000</width>
+		<height>3000</height>
+	</image>
+	<itunes:subtitle>代码时间是一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量</itunes:subtitle>
+	<itunes:summary>代码时间是一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量</itunes:summary>
+	<itunes:keywords>codetimecn, technology, programming, geek, 代码时间</itunes:keywords>
+	<itunes:category text="Technology">
+		<itunes:category text="Tech News" />
+	</itunes:category>
+	<itunes:category text="Technology" />
+	<itunes:author>Xi Xiao</itunes:author>
+	<itunes:owner>
+		<itunes:name>Xi Xiao</itunes:name>
+		<itunes:email>codetimecn@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="http://codetimecn.com/img/logo-3000x3000.png" />
+	<itunes:new-feed-url>http://codetimecn.com/podcast.rss</itunes:new-feed-url>
+
+	<% for (var slug in public.episodes._data) { %>
+	<% if (public.episodes._data[slug].audio) { %>
+	<item>
+		<title><%= public.episodes._data[slug].title %></title>
+		<link>http://codetimecn.com/episodes/<%= slug %></link>
+		<pubDate><%= new Date(public.episodes._data[slug].date).toUTCString() %></pubDate>
+		<guid isPermaLink="true">http://codetimecn.com/episodes/<%= slug %></guid>
+		<description><%= public.episodes._data[slug].description %></description>
+
+		<enclosure url="http://media.blubrry.com/codetimecn/fiend.blob.core.windows.net/fiend/<%= public.episodes._data[slug].audio %>.mp3" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[<%= public.episodes._data[slug].description %> See <a href="http://codetimecn.come/episodes/<%= slug %>">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration><%= public.episodes._data[slug].duration %></itunes:duration>
+		<itunes:subtitle><%= public.episodes._data[slug].description %></itunes:subtitle>
+		<itunes:author>Xi Xiao</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	<% } %>
+	<% } %>
+</channel>
+</rss>
