@@ -1,6 +1,6 @@
 {
     "scala": {
-        "title": "Scala - 杨云 大魔头诺铁",
+        "title": "Scala - 大魔头诺铁",
         "date": "2016-07-27",
         "description": "Scala是一门基于JVM的多范式编程语言。这一期我们请到ThoughtWorks的咨询师 杨云 大魔头诺铁 来分享他多年使用Scala的经验。",
         "audio": "e14-scala",
@@ -16,7 +16,7 @@
         "color": "#af89d3"
     },
     "ocaml": {
-        "title": "OCaml 语言 - 张宏波",
+        "title": "OCaml - 张宏波",
         "date": "2016-07-07",
         "description": "OCaml是一门工业上被使用得越来越多的编程语言。这一期我们请到Bloomberg技术专家 OCaml编译器核心开发成员 张宏波 和我们分享这门编程语言的特点。",
         "audio": "e12-ocaml",
@@ -56,7 +56,7 @@
         "color": "#7bb611"
     },
     "git": {
-        "title": "Git – Michelle, Alex, Mike",
+        "title": "Git – M, A and M",
         "date": "2016-05-31",
         "description": "今天我们请到Atlassian的三位嘉宾Michelle, Alex 和 Mike 分享他们对Git和Git工作流的理解和使用经验。",
         "audio": "e7-git",
@@ -64,7 +64,7 @@
         "color": "#5596E6"
     },
     "clojure": {
-        "title": "Clojure – 何婧誉 Loretta",
+        "title": "Clojure – Loretta",
         "date": "2016-05-20",
         "description": "今天我们请到嘉宾 Loretta 根据她使用Clojure的经验来分析和展开Clojure的各个特点，希望能帮助大家对这门语言有更多的了解。",
         "audio": "e6-clojure",
@@ -72,7 +72,7 @@
         "color": "#d74108"
     },
     "design": {
-        "title": "Design UX/UI – Millie",
+        "title": "UX/UI – Millie",
         "date": "2016-05-12",
         "description": "今天我们要聊的是用户体验和用户设计。 希望和嘉宾 Millie 的聊天能让大家对UX/UI的认识更深一点点。",
         "audio": "e5-design",
@@ -88,7 +88,7 @@
         "color": "#16a"
     },
     "emacs": {
-        "title": "Emacs – 陈斌 redguardtoo",
+        "title": "Emacs – 陈斌",
         "date": "2016-04-18",
         "description": "这一期请到Emacs高手 陈斌 和大家分享他对Emacs的理解, 也谈到了学习自由软件这个理念对他坚持学习Emacs的帮助。 ",
         "audio": "e3-emacs",
@@ -104,7 +104,7 @@
         "color": "#ff5050"
     },
     "javascript": {
-        "title": "JavaScript – 怡红公子",
+        "title": "JavaScript – 公子",
         "date": "2016-04-01",
         "description": "JavaScript是代码时间的第一期节目。我们和SegmentFault 社区综合威望NO.1的 怡红公子 一起来聊。",
         "audio": "e1-javascript",
