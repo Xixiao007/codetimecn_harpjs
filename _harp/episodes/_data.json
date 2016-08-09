@@ -1,4 +1,12 @@
 {
+    "frp": {
+        "title": "binding.scala - 杨博",
+        "date": "2016-08-09",
+        "description": "Binding.scala是杨博开发的一个能在JVM和scala.js上运行的响应式的web数据绑定框架，这一期请到他向大家介绍什么是响应式编程以及他构思和编写binding.scala的过程。",
+        "audio": "e15-frp",
+        "duration": "0:59:23",
+        "color": "#ff9b35"
+    },
     "scala": {
         "title": "Scala - 大魔头诺铁",
         "date": "2016-07-27",
