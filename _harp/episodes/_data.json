@@ -1,4 +1,12 @@
 {
+    "iot": {
+        "title": "IoT and Ruff - 郑晔",
+        "date": "2016-08-16",
+        "description": "物联网IoT是下一个可预见改变人类连接方式的科技。嘉宾郑晔分享他对物联网的理解以及他所在公司开发的物联网JavaScript编程平台Ruff。",
+        "audio": "e16-iot",
+        "duration": "1:08:30",
+        "color": "#008491"
+    },
     "frp": {
         "title": "binding.scala - 杨博",
         "date": "2016-08-09",
