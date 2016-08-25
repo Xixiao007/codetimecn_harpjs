@@ -1,4 +1,12 @@
 {
+    "prolog": {
+        "title": "Prolog - 王四哥达家码",
+        "date": "2016-08-26",
+        "description": "Prolog是一门建立在逻辑学的基础理论之上的逻辑编程语言。这次段子手王四哥来跟我们分享他对Prolog的理解。",
+        "audio": "e17-prolog",
+        "duration": "0:48:55",
+        "color": "#5f86ff"
+    },
     "iot": {
         "title": "IoT and Ruff - 郑晔",
         "date": "2016-08-16",
