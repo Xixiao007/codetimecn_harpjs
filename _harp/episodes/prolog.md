@@ -18,5 +18,5 @@
 - 嘉宾将来的规划
 
 ### URLs: ###
-[WAM文档](http://wambook.sourceforge.net/)
-[书: the craft of prolog](https://mitpress.mit.edu/books/craft-prolog)
+- [WAM文档](http://wambook.sourceforge.net/)
+- [书: the craft of prolog](https://mitpress.mit.edu/books/craft-prolog)
