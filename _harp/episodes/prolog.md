@@ -19,4 +19,4 @@
 
 ### URLs: ###
 [WAM文档](http://wambook.sourceforge.net/)
-[书: the craft of prolog]}(https://mitpress.mit.edu/books/craft-prolog)
+[书: the craft of prolog](https://mitpress.mit.edu/books/craft-prolog)
