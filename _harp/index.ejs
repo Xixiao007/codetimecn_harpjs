@@ -1,34 +1,33 @@
 <section class="about-section">
-    <section class="about__intro">
-        <figure class="about__main-img">
-            <p class="about__main-desc">代码时间是一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量。 节目也可以在这些平台收听： <a href="https://itunes.apple.com/fi/podcast/dai-ma-shi-jian/id1147292151" target="_blank">iTunes</a> | <a href="http://music.163.com/#/djradio?id=336355127" target="_blank">网易云音乐</a> | <a href="http://www.lizhi.fm/1554714/" target="_blank">荔枝FM</a> | <a href="http://www.ximalaya.com/51547393/album/4867505" target="_blank">喜马拉雅</a><wb:follow-button uid="5867456930" type="red_3" width="100%" height="30" ></wb:follow-button></p>
-    </section>
+  <section class="about__intro">
+    <figure class="about__main-img">
+      <p class="about__main-desc">代码时间是一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量。 节目也可以在这些平台收听： <a href="https://itunes.apple.com/fi/podcast/dai-ma-shi-jian/id1098682510?mt=2" target="_blank">iTunes</a> | <a href="http://music.163.com/#/djradio?id=336355127" target="_blank">网易云音乐</a> | <a href="http://www.lizhi.fm/1554714/" target="_blank">荔枝FM</a> | <a href="http://www.ximalaya.com/51547393/album/4867505" target="_blank">喜马拉雅</a><wb:follow-button uid="5867456930" type="red_3" width="100%" height="30" ></wb:follow-button></p>
+  </section>
 </section>
-
 <section id="episode-area" class="episodes">
-    <h1>Episodes:</h1>
+  <h1>Episodes:</h1>
 
-    <ul class="home__post-list">
-        <% var n = 0;
-        for(var key in public.episodes._data){
-            n++ %>
-        <li class="home__ep" style="color:<%= public.episodes._data[key].color %>">
-            <div class="home__ep--color"></div>
-            <div class="home__ep-info">
-                <audio preload="none" controls src="http://media.blubrry.com/codetimecn/fiend2.blob.core.windows.net/fiend2/<%= public.episodes._data[key].audio %>.mp3"></audio>
-                <h2 class="home--post-list--title">
-                    <a href="/episodes/<%= key %>">
-                        <%= -1*(n - Object.keys(public.episodes._data).length) +1 %>: <%= public.episodes._data[key].title %>
-                    </a>
-                </h2>
-                <p class="home__ep-date">
-                    <%= public.episodes._data[key].date %>
-                </p>
-                <p class="home__ep-description">
-                    <%= public.episodes._data[key].description %>
-                </p>
-                <a class="more-link" href="/episodes/<%= key %>">See Show Notes &rarr; </a>
-        </li>
+  <ul class="home__post-list">
+    <% var n = 0;
+    for(var key in public.episodes._data){
+        n++ %>
+    <li class="home__ep" style="color:<%= public.episodes._data[key].color %>">
+      <div class="home__ep--color"></div>
+      <div class="home__ep-info">
+        <audio preload="none" controls src="http://media.blubrry.com/codetimecn/fiend2.blob.core.windows.net/fiend2/<%= public.episodes._data[key].audio %>.mp3"></audio>
+        <h2 class="home--post-list--title">
+          <a href="/episodes/<%= key %>">
+            <%= -1*(n - Object.keys(public.episodes._data).length) +1 %>: <%= public.episodes._data[key].title %>
+          </a>
+        </h2>
+        <p class="home__ep-date">
+          <%= public.episodes._data[key].date %>
+        </p>
+        <p class="home__ep-description">
+          <%= public.episodes._data[key].description %>
+        </p>
+        <a class="more-link" href="/episodes/<%= key %>">See Show Notes &rarr; </a>
+    </li>
     <% } %>
-    </ul>
+  </ul>
 </section>
