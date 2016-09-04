@@ -3,7 +3,7 @@
         "title": "Prolog - 王四哥达家码",
         "date": "2016-08-26",
         "description": "Prolog是一门建立在逻辑学的基础理论之上的逻辑编程语言。这次段子手王四哥来跟我们分享他对Prolog的理解。",
-        "audio": "group17/M01/BB/E9/wKgJKVe_SBjhnUf0AWY_Ms8tIjM919",
+        "audio": "2016/08/26/2553197945810667014_hd",
         "duration": "0:48:55",
         "color": "#5f86ff"
     },
@@ -11,7 +11,7 @@
         "title": "IoT and Ruff - 郑晔",
         "date": "2016-08-16",
         "description": "物联网IoT是下一个可预见改变人类连接方式的科技。嘉宾郑晔分享他对物联网的理解以及他所在公司开发的物联网JavaScript编程平台Ruff。",
-        "audio": "group19/M03/9A/5B/wKgJJley2ASScZpAAfWoT6XhBwA486",
+        "audio": "2016/08/16/2551448869772486150_hd",
         "duration": "1:08:30",
         "color": "#008491"
     },
@@ -19,7 +19,7 @@
         "title": "binding.scala - 杨博",
         "date": "2016-08-09",
         "description": "Binding.scala是杨博开发的一个能在JVM和scala.js上运行的响应式的web数据绑定框架，这一期请到他向大家介绍什么是响应式编程以及他构思和编写binding.scala的过程。",
-        "audio": "group18/M09/83/0E/wKgJJVep_yuDFvcrAbLX0sawC5E976",
+        "audio": "2016/08/09/2550186791484021766_hd",
         "duration": "0:59:23",
         "color": "#ff9b35"
     },
@@ -27,7 +27,7 @@
         "title": "Scala - 大魔头诺铁",
         "date": "2016-07-27",
         "description": "Scala是一门基于JVM的多范式编程语言。这一期我们请到ThoughtWorks的咨询师 杨云 大魔头诺铁 来分享他多年使用Scala的经验。",
-        "audio": "group20/M07/65/BE/wKgJJ1efFG2gGhDfAYXdgwg8_TQ528",
+        "audio": "2016/07/28/2547800353036434438_hd",
         "duration": "0:53:14",
         "color": "#b1987f"
     },
@@ -35,7 +35,7 @@
         "title": "爆栈之旅 - 灵感之源",
         "date": "2016-07-17",
         "description": "嘉宾 灵感之源 和我们分享了他囊括了4个技能树的 爆栈 开源项目，以及他自己一生对代码质量狂热的追求，还有移民澳洲的原因及移民后的感受。",
-        "audio": "group19/M05/65/65/wKgJJlefGXjQhaG-AgcT5j0x1ms963",
+        "audio": "2016/07/17/2545932669326552070_hd",
         "duration": "1:10:53",
         "color": "#af89d3"
     },
@@ -43,7 +43,7 @@
         "title": "OCaml - 张宏波",
         "date": "2016-07-07",
         "description": "OCaml是一门工业上被使用得越来越多的编程语言。这一期我们请到Bloomberg技术专家 OCaml编译器核心开发成员 张宏波 和我们分享这门编程语言的特点。",
-        "audio": "group17/M07/65/29/wKgJJFefJOCwXBYnAieQo6xUi8M741",
+        "audio": "2016/07/07/2544024078203592198_hd",
         "duration": "1:15:18",
         "color": "#0F3447"
     },
@@ -51,7 +51,7 @@
         "title": "Fullstack - 陈璋 余凡",
         "date": "2016-06-27",
         "description": "形式特别的一期，以三个人聊天的方式讨论了全栈工程师这个火热的话题。 如果您喜欢或者不喜欢这个形式都希望您能留言告诉我们。",
-        "audio": "group20/M0B/64/72/wKgJLFefJqzACSgFAczVsm7m9C8133",
+        "audio": "2016/06/27/2542186461411893766_hd",
         "duration": "1:02:56",
         "color": "#4acacf"
     },
@@ -59,7 +59,7 @@
         "title": "ReactJS - 题叶",
         "date": "2016-06-20",
         "description": "很高兴邀请到React中文论坛管理员 题叶 来到代码时间和大家分享React这个Facebook开源的前端框架。",
-        "audio": "group19/M07/65/54/wKgJK1efJ_CCCDS2AcPI9qeNm5s652",
+        "audio": "2016/06/20/2540916229128201734_hd",
         "duration": "0:55:42",
         "color": "#5a6872"
     },
@@ -67,7 +67,7 @@
         "title": "Haskell - 张淞",
         "date": "2016-06-15",
         "description": "这一期请到嘉宾《Haskell函数式编程入门》一书的作者 张淞 介绍了函数式编程的概念以及Haskell这门优秀的编程语言的特点。",
-        "audio": "group19/M0B/65/9B/wKgJJlefKd_juBXwAbER8Lg2wYU487",
+        "audio": "2016/06/16/2540020086348662790_hd",
         "duration": "0:59:04",
         "color": "#eda035"
     },
@@ -75,7 +75,7 @@
         "title": "Emacs Plugins – 冯书",
         "date": "2016-06-06",
         "description": "这次请到 冯书(tumashu) 来分享他十年来使用Emacs和成为Emacs热门插件制作和维护者的经历。",
-        "audio": "group19/M05/65/9F/wKgJJlefKvniMd38AZfjzUV7N9w498",
+        "audio": "2016/06/08/2538633879211296262_hd",
         "duration": "0:55:42",
         "color": "#7bb611"
     },
@@ -83,7 +83,7 @@
         "title": "Git – M, A and M",
         "date": "2016-05-31",
         "description": "今天我们请到Atlassian的三位嘉宾Michelle, Alex 和 Mike 分享他们对Git和Git工作流的理解和使用经验。",
-        "audio": "group20/M0A/67/AB/wKgJJ1efsB3zxKvDAfIkttjXJWg687",
+        "audio": "2016/06/08/2538633619365771270_hd",
         "duration": "1:08:01",
         "color": "#5596E6"
     },
@@ -91,7 +91,7 @@
         "title": "Clojure – Loretta",
         "date": "2016-05-20",
         "description": "今天我们请到嘉宾 Loretta 根据她使用Clojure的经验来分析和展开Clojure的各个特点，希望能帮助大家对这门语言有更多的了解。",
-        "audio": "group19/M04/67/3F/wKgJJlefrouyWdfzAcJ-cy0ccXw731",
+        "audio": "2016/06/08/2538633361667732998_hd",
         "duration": "1:01:30",
         "color": "#d74108"
     },
@@ -99,7 +99,7 @@
         "title": "UX/UI – Millie",
         "date": "2016-05-12",
         "description": "今天我们要聊的是用户体验和用户设计。 希望和嘉宾 Millie 的聊天能让大家对UX/UI的认识更深一点点。",
-        "audio": "group18/M05/66/A5/wKgJKlefrNuxVzRmAWzjmuwbxAE922",
+        "audio": "2016/06/08/2538633103969693702_hd",
         "duration": "1:09:52",
         "color": "#00b4a0"
     },
@@ -107,7 +107,7 @@
         "title": "Spacemacs – 子龙山人",
         "date": "2016-05-01",
         "description": "这一期请到Spacemacs高手 子龙 跟大家介绍Spacemacs这个能几乎完美模拟Vim的Emacs配置。",
-        "audio": "group20/M03/63/F4/wKgJLFefBrOTIQPdAYkgdEbc7mM041",
+        "audio": "2016/06/08/2538632846271653382_hd",
         "duration": "0:27:28",
         "color": "#16a"
     },
@@ -115,7 +115,7 @@
         "title": "Emacs – 陈斌",
         "date": "2016-04-18",
         "description": "这一期请到Emacs高手 陈斌 和大家分享他对Emacs的理解, 也谈到了学习自由软件这个理念对他坚持学习Emacs的帮助。 ",
-        "audio": "group20/M05/64/02/wKgJLFefCOzg2B5bAf-7cKD7JEc841",
+        "audio": "2016/06/08/2538632545623940614_hd",
         "duration": "0:25:09",
         "color": "#c69"
     },
@@ -123,7 +123,7 @@
         "title": "如何学习前端 - 余凡",
         "date": "2016-04-07",
         "description": "这一期请到SegmentFault又一红人 余凡 Nightire 分享他是如何用5年时间从\"完全不知道编程是什么\"到今天公司技术团队的leader。",
-        "audio": "group19/M08/64/61/wKgJK1ee5sDTbZ1RAdjJpSGbgUA964",
+        "audio": "2016/06/08/2538632287925901318_hd",
         "duration": "1:04:34",
         "color": "#ff5050"
     },
@@ -131,7 +131,7 @@
         "title": "JavaScript – 公子",
         "date": "2016-04-01",
         "description": "JavaScript是代码时间的第一期节目。我们和SegmentFault 社区综合威望NO.1的 怡红公子 一起来聊。",
-        "audio": "group20/M06/62/63/wKgJLFeeYQKAoy7TAWABSbKA0t0835",
+        "audio": "2016/06/08/2538632030227860998_hd",
         "duration": "0:48:03",
         "color": "#734098"
     }
