@@ -1,4 +1,20 @@
 {
+    "es2015": {
+        "title": "ES2015 - 贺师俊(上)",
+        "date": "2016-09-09",
+        "description": "上集：学习JavaScript的人对EcmaScript(ES)标准一定不会陌生。这次请到贺师俊来介绍ES2015标准里的重要特性。",
+        "audio": "2016/08/26/2553197945810667014_hd",
+        "duration": "0:48:55",
+        "color": "#97365D"
+    },
+    "es20152": {
+        "title": "ES2015 - 贺师俊(下)",
+        "date": "2016-09-09",
+        "description": "下集：学习JavaScript的人对EcmaScript(ES)标准一定不会陌生。这次请到贺师俊来介绍ES2015标准里的重要特性。",
+        "audio": "2016/08/26/2553197945810667014_hd",
+        "duration": "0:48:55",
+        "color": "#97365D"
+    },
     "prolog": {
         "title": "Prolog - 王四哥达家码",
         "date": "2016-08-26",
