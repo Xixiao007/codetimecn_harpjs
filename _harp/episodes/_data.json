@@ -1,4 +1,12 @@
 {
+    "rust-go": {
+        "title": "Rust 和 Go 语言 - 黄东旭",
+        "date": "2016-09-25",
+        "description": "Rust 和 Go 语言是近年来比较火的新语言，这一期我们请到了PingCAP公司的黄东旭（co-founder, CTO）来和我们聊聊 Rust 和 Go 语言之间的区别。",
+        "audio": "2016/09/25/2558859629683325446_hd",
+        "duration": "1:13:51",
+        "color": "#152935"
+    },
     "es2015": {
         "title": "ES2015 - 贺师俊(上)",
         "date": "2016-09-09",
