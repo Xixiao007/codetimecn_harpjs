@@ -5,9 +5,10 @@
 1. Clone Repo
 2. Install node.js
 3. `npm install`
-4. `gulp` to host at http://localhost:4000
+4. Install harp globally by `npm install -g harp`
+5. run command as mentioned in `package.jason`
 
 ## Generate Static Site
-- `npm run build`
+- `harp compile _harp --output ../www`
 
 ## Repo originally forked from https://github.com/una/toolsday/
