@@ -18,5 +18,5 @@
 - [冯大辉](http://dbanotes.net/)
 - [鸟哥](http://www.laruence.com/)
 - [碎月成星](http://blog.sycx.me/)
-- [技巧:如何用一年时间获得十年的经验 ](https://book.douban.com/subject/26874593/)
+- [嘉宾著书 《技巧:如何用一年时间获得十年的经验》](https://book.douban.com/subject/26874593/)
 - [大争论 The Great Debate ](https://book.douban.com/subject/25963607/)
