@@ -47,7 +47,7 @@
     list-style: none;
     display: inline-block;
     margin: 1em;
-    @extend %transition-duration;
+    @extend %transition-duration !optional;
 
     @include breakpoint(sm) {
       display: block;

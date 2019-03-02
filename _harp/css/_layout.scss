@@ -30,6 +30,11 @@ $breakpoints: (
   max-width: 600px;
 }
 
+%max-800 {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
 %max-1100 {
   margin: 0 auto;
   max-width: 1100px;
